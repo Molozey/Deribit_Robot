@@ -1,0 +1,9 @@
+robot_Settings:
+gap: 100.0
+gap_ignore: 50.0
+exchange:
+client_id: W6-2Gwvq
+client_secret: W9VQRlL7bIdc59DK2s7YrhqHTvw8k2U86nq_Tedsvfc
+operation_volume: 100
+numbers_of_iterations: 2000
+time_interval: 1
